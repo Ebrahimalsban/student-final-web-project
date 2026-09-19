@@ -45,6 +45,9 @@ Original project description:
 A simple and basic system to add, edit, delete and view using PHP and MySQL.
 
 The SQL script for creating the database and tables is available in the file:
+## الطالب الثاني
 
+- Student name: [امجد عبدالسلام]
+- GitHub username: [amjdalahnwmy2@gmail.com]
 ```text
 database.sql
