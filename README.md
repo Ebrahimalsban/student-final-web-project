@@ -1,9 +1,50 @@
-Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
-========
+# Final Web Project
 
-A simple and basic system to add, edit, delete and view using PHP and MySQL. 
+## Student Information
 
-Blog Article: [Very simple add, edit, delete, view in PHP & MySQL](http://blog.chapagain.com.np/very-simple-add-edit-delete-view-in-php-mysql/)
+- Student name: [ابراهيم الصبان]
+- GitHub username: [hymw24545@gmail.com]
+- Student role: Repository owner
 
-SQL script to create database and tables is present in **database.sql** file.
+## Project Name
 
+Simple Create, Read, Update, Delete (CRUD) System in PHP and MySQL
+
+## Project Description
+
+This project is a simple web-based CRUD system developed using PHP and MySQL.
+
+The system allows the user to:
+
+- Create new records.
+- Read and display records.
+- Update existing records.
+- Delete records.
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Original Project Source
+
+This project was forked from the following GitHub repository:
+
+https://github.com/chapagain/crud-php-simple
+
+Original GitHub owner:
+
+https://github.com/chapagain
+
+Original project description:
+
+A simple and basic system to add, edit, delete and view using PHP and MySQL.
+
+The SQL script for creating the database and tables is available in the file:
+
+```text
+database.sql
